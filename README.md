@@ -1,7 +1,9 @@
 **IMPORTANTE!**
 
 
-**Activar el servicio TFTP: 1-systemctl start tftp 2-systemctl enable tftp**
+**Activar el servicio TFTP:** 
+- 1-systemctl start tftp 
+- 2-systemctl enable tftp
 ## Configuración TFTP:
 	*/etc/xinetd.d/tftp
 ## Configuración IP estática:
